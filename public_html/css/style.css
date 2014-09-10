@@ -3,12 +3,15 @@ body {
 }
 nav a {
     color: white;
+    padding:175px;
+    font-size:26px;
+    text-decoration-style: dashed
 }
 #current-link{
     text-decoration: underline;
 }
 p a{
-    color:white
+    color:white;
 }
 .uppercase{
     text-transform: uppercase;
@@ -35,7 +38,9 @@ img {
  nav a{
      padding:175px;
      font-size:26px;
+     text-decoration-style: dashed
  }
  #future-link{
      text-decoration:underline;
  }
+ 
