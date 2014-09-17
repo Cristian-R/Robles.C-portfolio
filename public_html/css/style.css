@@ -13,10 +13,6 @@ nav a {
 p a{
     color:white;
 }
-.uppercase{
-    text-transform: uppercase;
-    font-size:38px;
-}
 img {
     width:380px;
     height:auto;
@@ -28,6 +24,10 @@ img {
      padding-left: 500px;
      margin-top: 40px;
      margin-bottom: 20px;
+ }
+ .uppercase{
+     text-transform:uppercase;
+     font-size:38px;
  }
  p {
      font-size:28px;
