@@ -43,4 +43,7 @@ img {
  #future-link{
      text-decoration:underline;
  }
- 
+ #video{
+     width:700px;
+     height:500;
+ }
